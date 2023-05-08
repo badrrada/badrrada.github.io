@@ -1,0 +1,13 @@
+HTTrack3.49-2 launched on Mon, 08 May 2023 03:19:54 at https://asparagus.ae
+(httrack https://asparagus.ae )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:19:57	Warning: 	Found for https://asparagus.ae/
+03:19:57	Warning: 	File has moved from https://asparagus.ae/ to https://asparagus.ae/ar/home
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 43 seconds : 521 links scanned, 519 files written (117774233 bytes overall) [74162662 bytes received at 141802 bytes/sec], 58616927 bytes transferred using HTTP compression in 312 files, ratio 24%, 43.4 requests per connection
+(No errors, 2 warnings, 0 messages)
